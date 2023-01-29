@@ -76,13 +76,38 @@ As demais variáveis não tiveram pesos diferenciados.
 
 ## Conclusões
 
+### Cluster 0:
+Grupo de mais alto valor, com menor número de clientes. Além de terem uma alta renda e maior nível de educação, são os que mais compram, com ticket médio mais alto entre todos os grupos. Não costumam visitar tanto o website da empresa, nem comprar sempre através de promoções, pois preferem as compras por catálogo e diretamente na loja. As categorias preferidas são a de carnes e a de vinhos. A maioria não tem filhos em casa e são os clientes cadastrados há mais tempo.
+ 
+
+### Cluster 1:
+É um grupo jovem, com menor poder aquisitivo, que é o menos ativo entre todos eles. A empresa precisa tomar certo cuidado, pois estão churnando e deixando de comprar como antes. É o grupo que menos aceita as campanhas de promoção. É uma oportunidade importante para a empresa fazer campanhas de produtos mais destinados ao público infantil. Grupo que mais faz compras em promoções (%). Gostam de fazer compras pela loja física. São os que mais visitam o website. Gostam mais de gold prods do que os outros clusters de maior valor.
 
 
+### Cluster 2:
+É o cluster com clientes mais novos, com menor poder aquisitivo, porém são os mais ativos dentro da empresa. É o grupo que se cadastrou há menos tempo. Os clientes gostam de fazer compras em promoções. Gostam de fazer compras pela loja física. Gostam de visitar o website, provavelmente para buscar promoções. Gostam mais de gold prods do que os outros clusters de maior valor.
 
 
+### Cluster 3:
+É um grupo que realiza muitas compras, porém com ticket médio bem menor que o grupo anterior, mas ainda assim trazendo bastante receita para a empresa.  Os clientes têm um salário anual relativamente alto, são mais velhos e geralmente têm 1 filho em casa. É o grupo que mais aprecia a categoria de vinhos e que tem maior número de clientes.
 
 
+![image](https://user-images.githubusercontent.com/103456938/215355072-1e55e66a-6573-422f-8f7a-905858384fd9.png)
 
+
+![image](https://user-images.githubusercontent.com/103456938/215355105-7a63781a-e72e-4eaa-9c90-e74384c58856.png)
+
+
+![image](https://user-images.githubusercontent.com/103456938/215355420-e7986c14-8455-4521-b45b-aa6442f47d74.png)
+
+
+![image](https://user-images.githubusercontent.com/103456938/215356126-a8a7eae6-2440-449e-9e74-7965390c6ac3.png)
+
+
+![image](https://user-images.githubusercontent.com/103456938/215356146-bf4f54e8-0aa3-4d99-abde-0cfcb26dfa47.png)
+
+
+![image](https://user-images.githubusercontent.com/103456938/215356162-2f9d9695-46eb-469d-b4c2-16fe2c53a74d.png)
 
 
 
